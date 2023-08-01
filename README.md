@@ -5,6 +5,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=70&duration=4000&pause=3&color=657AF0&center=True&multiline=true&repeat=true&width=1000&height=100&lines=Hi👋+I'm+Heejin)](https://git.io/typing-svg)
 </div>
 <hr>
+<br>
 
 <h3 align="center">📞 Contact 📞</h3>
 <p align="center">
