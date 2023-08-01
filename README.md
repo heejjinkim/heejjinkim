@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HeejinKim&height=170)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HeejinKim&height=200)
 </div>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
