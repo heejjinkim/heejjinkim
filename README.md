@@ -1,7 +1,13 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HeejinKim&height=200)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HeejinKim%20👋&height=200&fontSize=60&animation=twinkling)
 </div>
+<h3 align="center">📞 Contact 📞</h3>
+<p align="center">
+    <a href="mailto:06.hjhj.12@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
+    </a>
+</p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp
