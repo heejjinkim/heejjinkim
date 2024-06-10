@@ -15,13 +15,6 @@
 </p>
 <br>
 
-<h3 align="center">📝 Blog 📝</h3>
-<p align="center">
-    <a href="https://dev-heyjin.tistory.com/">
-        <img src="https://img.shields.io/badge/TISTORY-000000?style=flat&logo=Tistory&logoColor=white"> 
-    </a>
-</p>
-<br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
